@@ -1,0 +1,6 @@
+call_id,client_name,method_name,param_value,timestamp
+101,Client_A,processData,450,10:00:01
+102,Client_B,assignSubtask,7,10:00:02
+103,Client_A,estimateTokens,300,10:00:03
+104,Client_C,checkQuota,1500,10:00:04
+105,Client_B,deleteAgent,3,10:00:05

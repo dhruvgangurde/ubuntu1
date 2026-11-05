@@ -1,0 +1,7 @@
+event_id,process_id,event_action,target_process
+E1,P1,SEND,P2
+E2,P3,INTERNAL,NONE
+E3,P2,RECEIVE,P1
+E4,P2,SEND,P3
+E5,P1,INTERNAL,NONE
+E6,P3,RECEIVE,P2
